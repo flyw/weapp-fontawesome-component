@@ -1,5 +1,5 @@
 # weapp-fontawesome-component
-微信小程序的fa模块
+微信小程序的fa模块，项目使用 fa 的 4.x 版本
 
 # 安装说明
 
@@ -53,3 +53,10 @@
 ```xml
 <fa icon="fa fa-ban text-danger"></fa>
 ```
+
+# 参考来源
+
+[80percent/wechat-weapp-font-awesome](https://github.com/80percent/wechat-weapp-font-awesome)
+
+[southyou/wxcss-fontawesome](https://github.com/southyou/wxcss-fontawesome)
+
