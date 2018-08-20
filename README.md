@@ -1,5 +1,5 @@
 # weapp-fontawesome-component
-微信小程序的fa模块，项目使用 fa 的 4.x 版本
+微信小程序的 fa 图标模块，项目使用 fa 的 4.x 版本
 
 # 安装说明
 
