@@ -47,10 +47,9 @@
     <fa icon="fa fa-circle-thin fa-2x fa-stack-2x"></fa>
 </fa>
 ```
-###图标颜色
+### 图标颜色
 
 组件集成了一些bootstrap 4 的默认颜色，可以直接调用
-
 ```xml
 <fa icon="fa fa-ban text-danger"></fa>
 ```
